@@ -1,0 +1,1 @@
+{"rsync":{"/var/www/html":{"type":"rsync","guestpath":"/var/www/html","hostpath":"C:/Users/Dariel/Desktop/vagrant-load-balancer","disabled":false,"__vagrantfile":true,"owner":"vagrant","group":"vagrant"}}}
